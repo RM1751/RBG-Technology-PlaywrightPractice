@@ -1,0 +1,10 @@
+var rbg5:number|string|boolean;
+rbg5=100;
+console.log(rbg5);
+console.log(typeof rbg5);
+rbg5="RBG Technology";
+console.log(rbg5);
+console.log(typeof rbg5);
+rbg5=true;
+console.log(rbg5);
+console.log(typeof rbg5);
