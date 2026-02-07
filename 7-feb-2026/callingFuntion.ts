@@ -12,4 +12,4 @@ function funC(): void {
   funB();
 }
 
-funC();
+funC();//funtion is calling lifo last in first out style
