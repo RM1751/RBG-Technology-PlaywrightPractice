@@ -4,4 +4,4 @@ function sumOfThreeNumbers(a: number, b: number, c: number): number {
 
 // Example usage:
 const result = sumOfThreeNumbers(5, 10, 15);
-console.log(result); // Output: 30
+console.log(result); // Output: 30  
